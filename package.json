@@ -1,0 +1,12 @@
+{
+  "name": "owockibot-discord",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "register": "node register-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
